@@ -1,0 +1,6 @@
+id;produto;quantidade;preco;clienteId
+1;camiseta;2;120.00;1
+2;moletom;1;540.00;2
+3;calca;5;410.00;3
+4;tenis;4;610.00;1
+5;meia;2;80.00;1
